@@ -13,6 +13,7 @@ Documenting my interview preparation process.
 - Array & Hashing
   - [Two Sum](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/two-sum.cpp)
   - [Contains Duplicate](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/contains-duplicate.cpp)
+  - [Valid Anagram](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/valid-anagram.cpp)
 - Stack
 - Two pointers
 - Binary Search
