@@ -11,6 +11,7 @@ Documenting my interview preparation process.
 ## Questions
 
 - Array & Hashing
+  - [Two sum](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/two-sum.cpp)
 - Stack
 - Two pointers
 - Binary Search
