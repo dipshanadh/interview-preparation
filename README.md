@@ -20,6 +20,7 @@ Documenting my interview preparation process.
   - [Valid Sudoku](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/valid-sudoku.cpp)
 - Stack
 - Two pointers
+  - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - Binary Search
 - Sliding window
 - Linked List
