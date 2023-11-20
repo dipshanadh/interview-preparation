@@ -17,6 +17,7 @@ Documenting my interview preparation process.
   - [Top K Frequent Elements](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/top-k-frequent-elements.cpp)
   - [Group Anagrams](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/group-anagrams.cpp)
   - [Product of Array Except Self](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/product-of-array-except-self.cpp)
+  - [Valid Sudoku](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/valid-sudoku.cpp)
 - Stack
 - Two pointers
 - Binary Search
