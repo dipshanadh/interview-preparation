@@ -22,7 +22,8 @@ Documenting my interview preparation process.
   - [Longest Consecutive Sequence](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/longest-consecutive-sequence.cpp)
 - Stack
 - Two pointers
-  - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+  - [Valid Palindrome](https://github.com/dipshanadh/interview-preparation/blob/main/two-pointers/valid-palindrome.cpp)
+  - [Two Sum II - Input Array Is Sorted](https://github.com/dipshanadh/interview-preparation/blob/main/two-pointers/two-sum-ii-input-array-is-sorted.cpp)
 - Binary Search
 - Sliding window
 - Linked List
