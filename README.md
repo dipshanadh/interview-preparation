@@ -18,6 +18,7 @@ Documenting my interview preparation process.
   - [Group Anagrams](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/group-anagrams.cpp)
   - [Product of Array Except Self](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/product-of-array-except-self.cpp)
   - [Valid Sudoku](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/valid-sudoku.cpp)
+  - [Longest Consecutive Sequence](https://github.com/dipshanadh/interview-preparation/blob/main/arrays-and-hashing/longest-consecutive-sequence.cpp)
 - Stack
 - Two pointers
   - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
