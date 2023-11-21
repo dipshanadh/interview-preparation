@@ -7,6 +7,7 @@ Documenting my interview preparation process.
 ## Resources
 
 - [Problems - LeetCode](https://leetcode.com/problemset/all/)
+- [NeetCode 150](https://neetcode.io/roadmap)
 
 ## Questions
 
