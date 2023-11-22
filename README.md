@@ -26,6 +26,7 @@ Documenting my interview preparation process.
   - [Two Sum II - Input Array Is Sorted](https://github.com/dipshanadh/interview-preparation/blob/main/two-pointers/two-sum-ii-input-array-is-sorted.cpp)
 - Binary Search
 - Sliding window
+  - [Best Time to Buy and Sell Stock](https://github.com/dipshanadh/interview-preparation/blob/main/sliding-window/best-time-to-buy-and-sell-stock.cpp)
 - Linked List
 - Trees
 - Tries
